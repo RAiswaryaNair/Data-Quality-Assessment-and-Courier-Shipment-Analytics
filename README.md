@@ -59,7 +59,17 @@ Every chart or table is followed by a written insight backed by numbers. Claims 
 - **Geography:** The top 10 sender states account for 67% of shipments. Maharashtra (6,934) and Uttar Pradesh (5,466) lead, followed by a tight middle group and an evenly spread bottom tier.
 
 ## 💡 Business Recommendations
-TBD
+- **Re-evaluate the Express pricing premium.** Express costs ~77% more than Surface at the median but delivers in the same ~3 days on average. Either the service level needs to catch up to the price (faster fulfillment, prioritized handling), or pricing should be revisited — the current gap is not justified by delivery performance in this data.
+
+- **Protect and invest in the Surface network.** It drives roughly 60% of volume and is the customer's default choice. Capacity planning, vehicle allocation and hub investment should weight Surface accordingly, since it is the backbone of the business, not a secondary option.
+
+- **Incentivize compact packaging.** Since Chargeable Weight always equals Volumetric Weight, customers who ship dense-but-compact items are effectively overpaying relative to actual weight. A packaging guideline or size-based discount could reduce customer cost and free up van/cargo space.
+
+- **Bundle VAS with Cod rather than by Mode.** VAS uptake doesn't vary by shipping mode, so mode-specific VAS promotions are unlikely to move the needle. Cross-selling insurance or express handling alongside the already-popular Cod option is a more promising angle.
+
+- **Prioritize network strength in Maharashtra and Uttar Pradesh**, and separately investigate the bottom 12 states — are they genuinely low-demand markets, or under-served due to limited pickup/delivery infrastructure? The even spread there suggests untapped, evenly-distributed demand rather than one standout growth market.
+
+- **Offer Owner-borne risk more broadly, if commercially viable.** Right now it is available only for zero-VAS document shipments. Extending it (with a corresponding fee) to other shipment types could appeal to cost-sensitive customers willing to accept liability themselves.
 
 ## 🛠️ Tools & Technologies
 - **Language:** Python
